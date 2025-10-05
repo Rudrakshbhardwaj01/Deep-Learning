@@ -9,6 +9,7 @@ It uses **scikit-learn** only for data generation and **matplotlib** for visuali
 
 The perceptron is a simple linear classifier that updates its weights using the rule:
 
+new_weight=old_weight+(y-y_hat)*X_i
 
 ---
 
