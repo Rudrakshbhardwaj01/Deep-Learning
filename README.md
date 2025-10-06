@@ -1,7 +1,7 @@
 # Deep-Learning
 
 Welcome to my personal deep learning repository. 
-This repository is dedicated to documenting my journey through the [CampusX YouTube channel](https://www.youtube.com/c/CampusX) series: **“[100 Days of Deep Learning.](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=-xunnO5Tvf93Hws6)”** Here, you’ll find hands-on implementations, experiments, and notes as I explore the fascinating world of deep learning — step by step, lesson by lesson.
+This repository is dedicated to documenting my journey through the [CampusX YouTube channel](https://www.youtube.com/@campusx-official) series: **“[100 Days of Deep Learning.](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=-xunnO5Tvf93Hws6)”** Here, you’ll find hands-on implementations, experiments, and notes as I explore the fascinating world of deep learning — step by step, lesson by lesson.
 
 ---
 
