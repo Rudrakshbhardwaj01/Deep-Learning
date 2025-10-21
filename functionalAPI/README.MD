@@ -1,0 +1,3 @@
+# Nonlinear Neural Network Examples with Keras Functional API
+
+This repository contains examples of nonlinear neural networks implemented using TensorFlow and Keras Functional API. It includes two main examples: a **single-input, multiple-output** model and a **multiple-input, single-output** model. The examples demonstrate how to build and connect layers using the Functional API, allowing flexible architectures beyond the sequential model. These implementations are useful for understanding how to handle different input-output configurations in neural networks and serve as a starting point for more complex models.
